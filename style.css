@@ -1,0 +1,44 @@
+/* 👉 O'ZGARTIR: sahifa fonining rangi */
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 30px;
+}
+
+/* Oq karta */
+.karta {
+  background-color: white;
+  max-width: 400px;
+  margin: auto;
+  padding: 25px;
+  border-radius: 20px;
+}
+
+.emoji {
+  /* 👉 O'ZGARTIR: emoji kattaligi (masalan 50px yoki 120px) */
+  font-size: 80px;
+}
+
+h1 {
+  /* 👉 O'ZGARTIR: sarlavha rangi (red, green, purple, orange...) */
+  color: darkblue;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  font-size: 20px;
+}
+
+button {
+  /* 👉 O'ZGARTIR: tugma rangi */
+  background-color: orange;
+  color: white;
+  font-size: 18px;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}
